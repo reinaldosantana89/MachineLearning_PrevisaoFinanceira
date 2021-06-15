@@ -1,1 +1,1 @@
-# MachineLearning_PrevisaoFinanceira
+# Estudo de Machine Learning
